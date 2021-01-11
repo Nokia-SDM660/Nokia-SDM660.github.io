@@ -1,3 +1,9 @@
+### LineageOS 18.1 for Nokia phones ( Without GApps )
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210111-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip.svg)|
+
 ### LineageOS 18.0 for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
