@@ -3,28 +3,28 @@
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
 | Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210111-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip.svg)|
-
+| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Onyx.zip.svg)|
 
 ### Pixel Experience Android 11 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210111-1643-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210111-1643-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210112-1210-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210112-1210-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### Evolution X Android 11 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.3_Dragon-11-20210111-1401-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.3_Dragon-11-20210111-1401-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
+| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.3_Onyx-11-20210112-1353-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.3_Onyx-11-20210112-1353-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### Derpfest Android 11 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210112-0800.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210112-0800.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
+| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### LineageOS 18.0 for Nokia phones ( Without GApps )
 
