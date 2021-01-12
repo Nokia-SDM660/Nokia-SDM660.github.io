@@ -5,6 +5,13 @@
 | Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210111-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip.svg)|
 
 
+### Pixel Experience Android 11 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210111-1643-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210111-1643-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
 ### Evolution X Android 11 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
