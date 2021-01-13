@@ -20,6 +20,7 @@
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.3_Dragon-11-20210111-1401-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.3_Dragon-11-20210111-1401-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7 Plus ( Latest build )| [**EvolutionX_5.3_Onyx-11-20210112-1353-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.3_Onyx-11-20210112-1353-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### Derpfest Android 11 for Nokia Phones ( With GApps )
 
@@ -27,6 +28,7 @@
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210112-0800.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210112-0800.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### LineageOS 18.0 for Nokia phones ( Without GApps )
 
