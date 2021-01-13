@@ -4,6 +4,7 @@
 |--------------|-------------------------------------------------|-----------------------|
 | Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210111-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210111-UNOFFICIAL-Dragon.zip.svg)|
 | Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Onyx.zip.svg)|
+| Nokia 7.2 ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip.svg)|
 
 ### Pixel Experience Android 11 for Nokia Phones ( With GApps )
 
@@ -11,6 +12,7 @@
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210111-1643-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210111-1643-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210112-1210-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210112-1210-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### Evolution X Android 11 for Nokia Phones ( With GApps )
 
