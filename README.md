@@ -29,7 +29,7 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210112-0800.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210112-0800.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
