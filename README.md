@@ -3,7 +3,7 @@
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
 | Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210207-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210207-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210207-UNOFFICIAL-Dragon.zip.svg)|
-| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Onyx.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210208-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210208-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210208-UNOFFICIAL-Onyx.zip.svg)|
 | Nokia 7.2 ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip.svg)|
 | Nokia 6.2 ( Latest build )| [**lineage-18.1-20210113-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210113-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210113-UNOFFICIAL-Starlord.zip.svg)|
 
@@ -12,7 +12,7 @@
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210207-1122-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210207-1122-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210112-1210-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210112-1210-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210208-2016-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210208-2016-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210113-1655-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210113-1655-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
@@ -21,7 +21,7 @@
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.4_Dragon-11-20210207-1339-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.4_Dragon-11-20210207-1339-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.3_Onyx-11-20210112-1353-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.3_Onyx-11-20210112-1353-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.4_Onyx-11-20210208-2158-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.4_Onyx-11-20210208-2158-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**EvolutionX_5.3_Starlord-11-20210113-1835-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.3_Starlord-11-20210113-1835-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
@@ -30,7 +30,7 @@
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210112-1537.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
