@@ -28,7 +28,9 @@
 | Nokia 7 Plus (POB) | [**twrp-3.4.0-0-B2N_sprout-POB-11.0-20200909.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP-R/POB/twrp-3.4.0-0-B2N_sprout-POB-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP-R/POB/twrp-3.4.0-0-B2N_sprout-POB-11.0-20200909.img.svg)|
 | Nokia 7 Plus (OOB) | [**twrp-3.4.0-0-B2N_sprout-OOB-11.0-20200909.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP-R/OOB/twrp-3.4.0-0-B2N_sprout-OOB-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP-R/OOB/twrp-3.4.0-0-B2N_sprout-OOB-11.0-20200909.img.svg)|
 | Nokia 6.1 | [**twrp-3.4.0-0-PL2_sprout-11.0-20200909.img**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/TWRP-R/twrp-3.4.0-0-PL2_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/TWRP-R/twrp-3.4.0-0-PL2_sprout-11.0-20200909.img.svg)|
-
+| Nokia 7.2 | [**twrp-3.4.0-0-DDV_sprout-11.0-20200909.img**](https://sourceforge.net/projects/ddv-sprout/files/TWRP/TWRP-R/2020-09-05/twrp-3.4.0-0-DDV_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/TWRP/TWRP-R/2020-09-05/twrp-3.4.0-0-DDV_sprout-11.0-20200909.img.svg)|
+| Nokia 6.2 | [**twrp-3.4.0-0-SLD_sprout-11.0-20200909.img**](https://sourceforge.net/projects/sld-sprout/files/TWRP/TWRP-R/2020-09-05/twrp-3.4.0-0-SLD_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/TWRP/TWRP-R/2020-09-05/twrp-3.4.0-0-SLD_sprout-11.0-20200909.img.svg)|
+| Nokia 8.1 | [**twrp-3.4.0-0-PNX_sprout-11.0-20200909.img**](https://sourceforge.net/projects/pnx-sprout/files/TWRP/TWRP-R/twrp-3.4.0-0-PNX_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/TWRP/TWRP-R/twrp-3.4.0-0-PNX_sprout-11.0-20200909.img.svg)|
 
 
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
