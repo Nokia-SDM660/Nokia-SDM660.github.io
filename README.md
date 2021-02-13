@@ -6,7 +6,6 @@
 |  Nokia 7 Plus     | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 8.1        | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 9 PureView | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 7 Plus     | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 5.1 Plus   | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 3.1 Plus   | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 8 Sirocco  | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
@@ -19,6 +18,17 @@
 |  Nokia 6          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 5          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 2          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+
+
+### Android 11 TWRP For Nokia Phones
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus | [**twrp-3.4.0-0-DRG_sprout-11.0-20200909.img**](https://sourceforge.net/projects/drg-sprout/files/TWRP/TWRP-R/twrp-3.4.0-0-DRG_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/TWRP/TWRP-R/twrp-3.4.0-0-DRG_sprout-11.0-20200909.img.svg)|
+| Nokia 7 Plus (POB) | [**twrp-3.4.0-0-B2N_sprout-POB-11.0-20200909.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP-R/POB/twrp-3.4.0-0-B2N_sprout-POB-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP-R/POB/twrp-3.4.0-0-B2N_sprout-POB-11.0-20200909.img.svg)|
+| Nokia 7 Plus (OOB) | [**twrp-3.4.0-0-B2N_sprout-OOB-11.0-20200909.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP-R/OOB/twrp-3.4.0-0-B2N_sprout-OOB-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP-R/OOB/twrp-3.4.0-0-B2N_sprout-OOB-11.0-20200909.img.svg)|
+| Nokia 6.1 | [**twrp-3.4.0-0-PL2_sprout-11.0-20200909.img**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/TWRP-R/twrp-3.4.0-0-PL2_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/TWRP-R/twrp-3.4.0-0-PL2_sprout-11.0-20200909.img.svg)|
+
 
 
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
