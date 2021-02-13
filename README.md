@@ -2,23 +2,23 @@
 
 | Supported Devices |             Cost                   |             Place your order               |
 |-------------------|------------------------------------|--------------------------------------------|
-|  Nokia 6.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 7 Plus     | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 6.1 Plus   | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 7 Plus     | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 8.1        | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 9 PureView | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 7 Plus     | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 5.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 3.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 8 Sirocco  | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 6.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 7.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 5.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 3.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 8          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 7          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 6          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 5          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 7 Plus     | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 5.1 Plus   | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 3.1 Plus   | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 8 Sirocco  | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 6.1        | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 7.1        | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 5.1        | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 3.1        | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 8          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 7          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 6          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 5          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 2          | 750₹(INR) 12$(USD) 13$(AUD) 13€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 
 
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
