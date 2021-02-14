@@ -33,6 +33,21 @@
 | Nokia 8.1 | [**twrp-3.4.0-0-PNX_sprout-11.0-20200909.img**](https://sourceforge.net/projects/pnx-sprout/files/TWRP/TWRP-R/twrp-3.4.0-0-PNX_sprout-11.0-20200909.img) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/TWRP/TWRP-R/twrp-3.4.0-0-PNX_sprout-11.0-20200909.img.svg)|
 
 
+### Android 10 TWRP For Nokia Phones
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus | [**twrp-3.4.0-0-DRG_sprout-10.0-20200829.img**](https://sourceforge.net/projects/drg-sprout/files/TWRP/TEN/twrp-3.4.0-0-DRG_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/TWRP/TEN/twrp-3.4.0-0-DRG_sprout-10.0-20200829.img.svg)|
+| Nokia 7 Plus (POB) | [**twrp-3.4.0-0-B2N_sprout-POB-10.0-20200829.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP-TEN/POB/twrp-3.4.0-0-B2N_sprout-POB-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP-TEN/POB/twrp-3.4.0-0-B2N_sprout-POB-10.0-20200829.img.svg)|
+| Nokia 7 Plus (OOB) | [**twrp-3.4.0-0-B2N_sprout-OOB-10.0-20200829.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP-TEN/OOB/twrp-3.4.0-0-B2N_sprout-OOB-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP-TEN/OOB/twrp-3.4.0-0-B2N_sprout-OOB-10.0-20200829.img.svg)|
+| Nokia 7.1 | [**twrp-3.4.0-0-CTL_sprout-10.0-20200829.img**](https://sourceforge.net/projects/ctl-sprout/files/TWRP/TEN/twrp-3.4.0-0-CTL_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/TWRP/TEN/twrp-3.4.0-0-CTL_sprout-10.0-20200829.img.svg)|
+| Nokia 6.1 | [**twrp-3.4.0-0-PL2_sprout-10.0-20200829.img**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/TEN/twrp-3.4.0-0-PL2_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/TEN/twrp-3.4.0-0-PL2_sprout-10.0-20200829.img.svg)|
+| Nokia 7 | [**twrp-3.4.0-0-C1N-10.0-20200813.img**](https://sourceforge.net/projects/c1n/files/TWRP/TEN/twrp-3.4.0-0-C1N-10.0-20200813.img) |![data](https://img.shields.io/sourceforge/dt/c1n/TWRP/TEN/twrp-3.4.0-0-C1N-10.0-20200813.img.svg)|
+| Nokia 7.2 | [**twrp-3.4.0-0-DDV_sprout-10.0-20200829.img**](https://sourceforge.net/projects/ddv-sprout/files/TWRP/TEN/2020-07-05/twrp-3.4.0-0-DDV_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/TWRP/TEN/2020-07-05/twrp-3.4.0-0-DDV_sprout-10.0-20200829.img.svg)|
+| Nokia 6.2 | [**twrp-3.4.0-0-SLD_sprout-10.0-20200829.img**](https://sourceforge.net/projects/sld-sprout/files/TWRP/TEN/2020-07-05/twrp-3.4.0-0-SLD_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/TWRP/TEN/2020-07-05/twrp-3.4.0-0-SLD_sprout-10.0-20200829.img.svg)|
+| Nokia 8.1 | [**twrp-3.4.0-0-PNX_sprout-10.0-20200829.img**](https://sourceforge.net/projects/pnx-sprout/files/TWRP/TEN/twrp-3.4.0-0-PNX_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/TWRP/TEN/twrp-3.4.0-0-PNX_sprout-10.0-20200829.img.svg)|
+
+
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
