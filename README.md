@@ -20,6 +20,56 @@
 |  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 
 
+### Oxygen OS Android 10 for Nokia Phones
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-DRG.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/DRG/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-DRG.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-B2N.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/B2N/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-B2N.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-CTL.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/CTL/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-CTL.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-PL2.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/PL2/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-PL2.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
+### MIUI 12 Android 10 for Nokia Phones
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**MIUI12-10.0_PORT_V-4_NOKIA-SDM660-20200814-DRG.zip**](https://sourceforge.net/projects/drg-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-4_NOKIA-SDM660-20200814-DRG.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-B2N.zip**](https://sourceforge.net/projects/b2n-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-B2N.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-CTL.zip**](https://sourceforge.net/projects/ctl-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-CTL.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-PL2.zip**](https://sourceforge.net/projects/pl2-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-PL2.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
+### Pixel Experience Android 11 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210207-1122-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210207-1122-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210208-2016-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210208-2016-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210113-1655-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210113-1655-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
+### Evolution X Android 11 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.4_Dragon-11-20210207-1339-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.4_Dragon-11-20210207-1339-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.4_Onyx-11-20210208-2158-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.4_Onyx-11-20210208-2158-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**EvolutionX_5.3_Starlord-11-20210113-1835-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.3_Starlord-11-20210113-1835-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
+### Derpfest Android 11 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
 ### Android 11 TWRP For Nokia Phones
 
 | Device       |              Download Link                      |  Download Statistics  |
@@ -47,25 +97,6 @@
 | Nokia 6.2 | [**twrp-3.4.0-0-SLD_sprout-10.0-20200829.img**](https://sourceforge.net/projects/sld-sprout/files/TWRP/TEN/2020-07-05/twrp-3.4.0-0-SLD_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/TWRP/TEN/2020-07-05/twrp-3.4.0-0-SLD_sprout-10.0-20200829.img.svg)|
 | Nokia 8.1 | [**twrp-3.4.0-0-PNX_sprout-10.0-20200829.img**](https://sourceforge.net/projects/pnx-sprout/files/TWRP/TEN/twrp-3.4.0-0-PNX_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/TWRP/TEN/twrp-3.4.0-0-PNX_sprout-10.0-20200829.img.svg)|
 
-### Oxygen OS Android 10 for Nokia Phones
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-DRG.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/DRG/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-DRG.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-B2N.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/B2N/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-B2N.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-CTL.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/CTL/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-CTL.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-PL2.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/PL2/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-PL2.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
-
-### MIUI 12 Android 10 for Nokia Phones
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**MIUI12-10.0_PORT_V-4_NOKIA-SDM660-20200814-DRG.zip**](https://sourceforge.net/projects/drg-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-4_NOKIA-SDM660-20200814-DRG.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-B2N.zip**](https://sourceforge.net/projects/b2n-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-B2N.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-CTL.zip**](https://sourceforge.net/projects/ctl-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-CTL.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-PL2.zip**](https://sourceforge.net/projects/pl2-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-PL2.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
 
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
 
@@ -76,32 +107,6 @@
 | Nokia 7.2 ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip.svg)|
 | Nokia 6.2 ( Latest build )| [**lineage-18.1-20210113-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210113-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210113-UNOFFICIAL-Starlord.zip.svg)|
 
-### Pixel Experience Android 11 for Nokia Phones ( With GApps )
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210207-1122-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210207-1122-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210208-2016-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210208-2016-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210113-1655-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210113-1655-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
-### Evolution X Android 11 for Nokia Phones ( With GApps )
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.4_Dragon-11-20210207-1339-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.4_Dragon-11-20210207-1339-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.4_Onyx-11-20210208-2158-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.4_Onyx-11-20210208-2158-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**EvolutionX_5.3_Starlord-11-20210113-1835-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.3_Starlord-11-20210113-1835-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
-### Derpfest Android 11 for Nokia Phones ( With GApps )
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210113-2016.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### LineageOS 18.0 for Nokia phones ( Without GApps )
 
