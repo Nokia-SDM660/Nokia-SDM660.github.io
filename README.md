@@ -47,6 +47,25 @@
 | Nokia 6.2 | [**twrp-3.4.0-0-SLD_sprout-10.0-20200829.img**](https://sourceforge.net/projects/sld-sprout/files/TWRP/TEN/2020-07-05/twrp-3.4.0-0-SLD_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/TWRP/TEN/2020-07-05/twrp-3.4.0-0-SLD_sprout-10.0-20200829.img.svg)|
 | Nokia 8.1 | [**twrp-3.4.0-0-PNX_sprout-10.0-20200829.img**](https://sourceforge.net/projects/pnx-sprout/files/TWRP/TEN/twrp-3.4.0-0-PNX_sprout-10.0-20200829.img) |![data](https://img.shields.io/sourceforge/dt/pnx-sprout/TWRP/TEN/twrp-3.4.0-0-PNX_sprout-10.0-20200829.img.svg)|
 
+### Oxygen OS Android 10 for Nokia Phones
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-DRG.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/DRG/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-DRG.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-B2N.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/B2N/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-B2N.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-CTL.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/CTL/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-CTL.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-PL2.zip**](https://sourceforge.net/projects/nokia-sdm660/files/OOS/DN-VERSION/PL2/OxygenOS-DN-V12-HMD-SDM660-10.0-NOKIA-PL2.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
+### MIUI 12 Android 10 for Nokia Phones
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**MIUI12-10.0_PORT_V-4_NOKIA-SDM660-20200814-DRG.zip**](https://sourceforge.net/projects/drg-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-4_NOKIA-SDM660-20200814-DRG.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-B2N.zip**](https://sourceforge.net/projects/b2n-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-B2N.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-CTL.zip**](https://sourceforge.net/projects/ctl-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-CTL.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-PL2.zip**](https://sourceforge.net/projects/pl2-sprout/files/MIUI-12/DN-VERSION/MIUI12-10.0_PORT_V-2_NOKIA-SDM660-20200619-PL2.zip/download) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
 
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
 
