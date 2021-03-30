@@ -44,9 +44,10 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210329-1300-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210329-1300-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210308-0546-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210308-0546-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-11.0-20210308-0745-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal/-/raw/master/PixelExperience_Crystal-11.0-20210308-0745-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210329-2133-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210329-2133-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210329-2332-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210329-2332-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-11.0-20210330-0131-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal/-/raw/master/PixelExperience_Crystal-11.0-20210330-0131-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-11.0-20210330-0330-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2/-/raw/master/PixelExperience_Plate2-11.0-20210330-0330-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210221-1341-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210221-1341-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
@@ -66,8 +67,10 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Alpha-Dragon-20210207-1602.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Alpha-Onyx-20210208-2344.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Dragon-20210329-2133.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Beta-Dragon-20210329-2133.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Onyx-20210329-2331.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Beta-Onyx-20210329-2331.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**DerpFest-11-Community-Beta-Crystal-20210330-0128.zip**](https://gitlab.com/RaghuVarma331/derpfest-crystal/-/raw/master/DerpFest-11-Community-Beta-Crystal-20210330-0128.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**DerpFest-11-Community-Beta-Plate2-20210330-0324.zip**](https://gitlab.com/RaghuVarma331/derpfest-plate2/-/raw/master/DerpFest-11-Community-Beta-Plate2-20210330-0324.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
