@@ -76,6 +76,16 @@
 | Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
+### DotOS Android 11 for Nokia Phones
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**dotOS-R-v5.0.0-Dragon-UNOFFICIAL-20210404-2009.zip**](https://gitlab.com/RaghuVarma331/dotos-dragon/-/raw/master/dotOS-R-v5.0.0-Dragon-UNOFFICIAL-20210404-2009.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**dotOS-R-v5.0.0-Onyx-UNOFFICIAL-20210404-2219.zip**](https://gitlab.com/RaghuVarma331/dotos-onyx/-/raw/master/dotOS-R-v5.0.0-Onyx-UNOFFICIAL-20210404-2219.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**dotOS-R-v5.0.0-Crystal-UNOFFICIAL-20210405-0030.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.0.0-Crystal-UNOFFICIAL-20210405-0030.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**dotOS-R-v5.0.0-Plate2-UNOFFICIAL-20210405-0242.zip**](https://gitlab.com/RaghuVarma331/dotos-plate2/-/raw/master/dotOS-R-v5.0.0-Plate2-UNOFFICIAL-20210405-0242.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
 ### Android 11 TWRP For Nokia Phones
 
 | Device       |              Download Link                      |  Download Statistics  |
