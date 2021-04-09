@@ -4,8 +4,8 @@
 |-------------------|------------------------------------|--------------------------------------------|
 |  Nokia 6.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 7 Plus     | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 8.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 9 PureView | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 8.1        | 750₹(INR) 12$(USD) 14$(AUD) 12€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 9 PureView | 750₹(INR) 12$(USD) 14$(AUD) 12€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
 |  Nokia 5.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 3.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 8 Sirocco  | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
