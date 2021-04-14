@@ -56,10 +56,10 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.5.2_Dragon-11-20210330-0531-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.5.2_Dragon-11-20210330-0531-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.5.2_Onyx-11-20210330-0724-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.5.2_Onyx-11-20210330-0724-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**EvolutionX_5.5.2_Crystal-11-20210330-0915-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-crystal/-/raw/master/EvolutionX_5.5.2_Crystal-11-20210330-0915-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**EvolutionX_5.5.2_Plate2-11-20210330-1107-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-plate2/-/raw/master/EvolutionX_5.5.2_Plate2-11-20210330-1107-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.6_Dragon-11-20210414-0228-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.6_Dragon-11-20210414-0228-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.6_Onyx-11-20210414-0420-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.6_Onyx-11-20210414-0420-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**EvolutionX_5.6_Crystal-11-20210414-0612-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-crystal/-/raw/master/EvolutionX_5.6_Crystal-11-20210414-0612-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**EvolutionX_5.6_Plate2-11-20210414-0805-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-plate2/-/raw/master/EvolutionX_5.6_Plate2-11-20210414-0805-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**EvolutionX_5.4_Starlord-11-20210221-1520-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.4_Starlord-11-20210221-1520-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
@@ -118,9 +118,9 @@
 
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
-| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210330-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210330-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210330-UNOFFICIAL-Dragon.zip.svg)|
-| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210330-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210330-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210330-UNOFFICIAL-Onyx.zip.svg)|
-| Nokia 7.1 ( Latest build )| [**lineage-18.1-20210330-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210330-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-18.1-20210330-UNOFFICIAL-Crystal.zip.svg)|
+| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210413-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210413-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210413-UNOFFICIAL-Dragon.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210413-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210413-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210413-UNOFFICIAL-Onyx.zip.svg)|
+| Nokia 7.1 ( Latest build )| [**lineage-18.1-20210414-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210414-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-18.1-20210414-UNOFFICIAL-Crystal.zip.svg)|
 | Nokia 7.2 ( Latest build )| [**lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210112-UNOFFICIAL-Daredevil.zip.svg)|
 | Nokia 6.2 ( Latest build )| [**lineage-18.1-20210221-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210221-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210221-UNOFFICIAL-Starlord.zip.svg)|
 
