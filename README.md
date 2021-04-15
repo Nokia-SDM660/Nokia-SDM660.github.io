@@ -68,10 +68,10 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Dragon-20210329-2133.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Beta-Dragon-20210329-2133.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Onyx-20210329-2331.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Beta-Onyx-20210329-2331.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**DerpFest-11-Community-Beta-Crystal-20210330-0128.zip**](https://gitlab.com/RaghuVarma331/derpfest-crystal/-/raw/master/DerpFest-11-Community-Beta-Crystal-20210330-0128.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**DerpFest-11-Community-Beta-Plate2-20210330-0324.zip**](https://gitlab.com/RaghuVarma331/derpfest-plate2/-/raw/master/DerpFest-11-Community-Beta-Plate2-20210330-0324.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Dragon-20210414-0959.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Beta-Dragon-20210414-0959.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Onyx-20210414-1146.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Beta-Onyx-20210414-1146.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**DerpFest-11-Community-Beta-Crystal-20210414-1332.zip**](https://gitlab.com/RaghuVarma331/derpfest-crystal/-/raw/master/DerpFest-11-Community-Beta-Crystal-20210414-1332.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**DerpFest-11-Community-Beta-Plate2-20210414-1519.zip**](https://gitlab.com/RaghuVarma331/derpfest-plate2/-/raw/master/DerpFest-11-Community-Beta-Plate2-20210414-1519.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
@@ -80,10 +80,10 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**dotOS-R-v5.0.0-Dragon-UNOFFICIAL-20210404-2009.zip**](https://gitlab.com/RaghuVarma331/dotos-dragon/-/raw/master/dotOS-R-v5.0.0-Dragon-UNOFFICIAL-20210404-2009.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**dotOS-R-v5.0.0-Onyx-UNOFFICIAL-20210404-2219.zip**](https://gitlab.com/RaghuVarma331/dotos-onyx/-/raw/master/dotOS-R-v5.0.0-Onyx-UNOFFICIAL-20210404-2219.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**dotOS-R-v5.0.0-Crystal-UNOFFICIAL-20210405-0030.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.0.0-Crystal-UNOFFICIAL-20210405-0030.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**dotOS-R-v5.0.0-Plate2-UNOFFICIAL-20210405-0242.zip**](https://gitlab.com/RaghuVarma331/dotos-plate2/-/raw/master/dotOS-R-v5.0.0-Plate2-UNOFFICIAL-20210405-0242.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**dotOS-R-v5.0.1-Dragon-UNOFFICIAL-20210414-1707.zip**](https://gitlab.com/RaghuVarma331/dotos-dragon/-/raw/master/dotOS-R-v5.0.1-Dragon-UNOFFICIAL-20210414-1707.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**dotOS-R-v5.0.1-Onyx-UNOFFICIAL-20210414-1913.zip**](https://gitlab.com/RaghuVarma331/dotos-onyx/-/raw/master/dotOS-R-v5.0.1-Onyx-UNOFFICIAL-20210414-1913.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**dotOS-R-v5.0.1-Plate2-UNOFFICIAL-20210414-2326.zip**](https://gitlab.com/RaghuVarma331/dotos-plate2/-/raw/master/dotOS-R-v5.0.1-Plate2-UNOFFICIAL-20210414-2326.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Android 11 TWRP For Nokia Phones
