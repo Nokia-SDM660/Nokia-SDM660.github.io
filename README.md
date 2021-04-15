@@ -44,8 +44,8 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210329-2133-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210329-2133-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210329-2332-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210329-2332-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210415-1506-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210415-1506-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210415-1706-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210415-1706-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-11.0-20210330-0131-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal/-/raw/master/PixelExperience_Crystal-11.0-20210330-0131-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-11.0-20210330-0330-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2/-/raw/master/PixelExperience_Plate2-11.0-20210330-0330-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210112-1947-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
