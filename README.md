@@ -67,10 +67,10 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.6_Dragon-11-20210416-1456-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.6_Dragon-11-20210416-1456-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.6_Onyx-11-20210416-1649-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.6_Onyx-11-20210416-1649-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**EvolutionX_5.6_Crystal-11-20210416-1841-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-crystal/-/raw/master/EvolutionX_5.6_Crystal-11-20210416-1841-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**EvolutionX_5.6_Plate2-11-20210416-2033-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-plate2/-/raw/master/EvolutionX_5.6_Plate2-11-20210416-2033-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**EvolutionX_5.7_Dragon-11-20210511-1016-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx/-/raw/master/EvolutionX_5.7_Dragon-11-20210511-1016-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**EvolutionX_5.7_Onyx-11-20210511-1213-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-onyx/-/raw/master/EvolutionX_5.7_Onyx-11-20210511-1213-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**EvolutionX_5.7_Crystal-11-20210511-1412-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-crystal/-/raw/master/EvolutionX_5.7_Crystal-11-20210511-1412-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**EvolutionX_5.7_Plate2-11-20210511-1610-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-plate2/-/raw/master/EvolutionX_5.7_Plate2-11-20210511-1610-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.3_Daredevil-11-20210113-0633-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**EvolutionX_5.4_Starlord-11-20210221-1520-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.4_Starlord-11-20210221-1520-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
