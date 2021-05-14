@@ -96,6 +96,12 @@
 | Nokia 7.1 ( Latest build )| [**dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**dotOS-R-v5.0.1-Plate2-UNOFFICIAL-20210414-2326.zip**](https://gitlab.com/RaghuVarma331/dotos-plate2/-/raw/master/dotOS-R-v5.0.1-Plate2-UNOFFICIAL-20210414-2326.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
+### Descendant OS Android 11 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**descendant_Dragon-11.5-20210514-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-dragon/-/raw/master/descendant_Dragon-11.5-20210514-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
 
 ### Android 11 TWRP For Nokia Phones
 
