@@ -60,7 +60,7 @@
 | Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-11.0-20210510-1932-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal/-/raw/master/PixelExperience_Crystal-11.0-20210510-1932-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-11.0-20210510-2137-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2/-/raw/master/PixelExperience_Plate2-11.0-20210510-2137-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210513-1505-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210513-1505-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210221-1341-BETA-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210221-1341-BETA-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210513-1901-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210513-1901-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Evolution X Android 11 for Nokia Phones ( With GApps )
@@ -72,7 +72,7 @@
 | Nokia 7.1 ( Latest build )| [**EvolutionX_5.7_Crystal-11-20210511-1412-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-crystal/-/raw/master/EvolutionX_5.7_Crystal-11-20210511-1412-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**EvolutionX_5.7_Plate2-11-20210511-1610-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-plate2/-/raw/master/EvolutionX_5.7_Plate2-11-20210511-1610-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**EvolutionX_5.7_Daredevil-11-20210513-1659-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-daredevil/-/raw/master/EvolutionX_5.7_Daredevil-11-20210513-1659-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**EvolutionX_5.4_Starlord-11-20210221-1520-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.4_Starlord-11-20210221-1520-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**EvolutionX_5.7_Starlord-11-20210513-2054-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.7_Starlord-11-20210513-2054-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Derpfest Android 11 for Nokia Phones ( With GApps )
