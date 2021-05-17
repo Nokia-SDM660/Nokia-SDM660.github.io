@@ -101,6 +101,9 @@
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**descendant_Dragon-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-dragon/-/raw/master/descendant_Dragon-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**descendant_Onyx-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-onyx/-/raw/master/descendant_Onyx-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**descendant_Crystal-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-crystal/-/raw/master/descendant_Crystal-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**descendant_Plate2-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-plate2/-/raw/master/descendant_Plate2-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Android 11 TWRP For Nokia Phones
