@@ -93,7 +93,7 @@
 |--------------|-------------------------------------------------|--------------------|
 | Nokia 6.1 Plus ( Latest build )| [**dotOS-R-v5.1-Dragon-UNOFFICIAL-20210601-1159.zip**](https://gitlab.com/RaghuVarma331/dotos-dragon/-/raw/master/dotOS-R-v5.1-Dragon-UNOFFICIAL-20210601-1159.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7 Plus ( Latest build )| [**dotOS-R-v5.1-Onyx-UNOFFICIAL-20210601-1501.zip**](https://gitlab.com/RaghuVarma331/dotos-onyx/-/raw/master/dotOS-R-v5.1-Onyx-UNOFFICIAL-20210601-1501.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**dotOS-R-v5.1-Crystal-UNOFFICIAL-20210601-1720.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.1-Crystal-UNOFFICIAL-20210601-1720.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**dotOS-R-v5.0.1-Plate2-UNOFFICIAL-20210414-2326.zip**](https://gitlab.com/RaghuVarma331/dotos-plate2/-/raw/master/dotOS-R-v5.0.1-Plate2-UNOFFICIAL-20210414-2326.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 ### Descendant OS Android 11 for Nokia Phones ( With GApps )
