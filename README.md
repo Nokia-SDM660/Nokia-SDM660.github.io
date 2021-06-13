@@ -75,19 +75,7 @@
 | Nokia 6.2 ( Latest build )| [**EvolutionX_5.8_Starlord-11-20210612-2343-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/evolutionx-starlord/-/raw/master/EvolutionX_5.8_Starlord-11-20210612-2343-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
-### Derpfest Android 11 for Nokia Phones ( With GApps )
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Dragon-20210414-0959.zip**](https://gitlab.com/RaghuVarma331/derpfest/-/raw/master/DerpFest-11-Community-Beta-Dragon-20210414-0959.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**DerpFest-11-Community-Beta-Onyx-20210414-1146.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-11-Community-Beta-Onyx-20210414-1146.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**DerpFest-11-Community-Beta-Crystal-20210414-1332.zip**](https://gitlab.com/RaghuVarma331/derpfest-crystal/-/raw/master/DerpFest-11-Community-Beta-Crystal-20210414-1332.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**DerpFest-11-Community-Beta-Plate2-20210414-1519.zip**](https://gitlab.com/RaghuVarma331/derpfest-plate2/-/raw/master/DerpFest-11-Community-Beta-Plate2-20210414-1519.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil/-/raw/master/DerpFest-11-Community-Alpha-Daredevil-20210113-0633.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip**](https://gitlab.com/RaghuVarma331/derpfest-starlord/-/raw/master/DerpFest-11-Community-Alpha-Starlord-20210221-1703.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
-
-### DotOS Android 11 for Nokia Phones
+### DotOS Android 11 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
@@ -95,15 +83,6 @@
 | Nokia 7 Plus ( Latest build )| [**dotOS-R-v5.1-Onyx-UNOFFICIAL-20210601-1501.zip**](https://gitlab.com/RaghuVarma331/dotos-onyx/-/raw/master/dotOS-R-v5.1-Onyx-UNOFFICIAL-20210601-1501.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.1 ( Latest build )| [**dotOS-R-v5.1-Crystal-UNOFFICIAL-20210601-1720.zip**](https://gitlab.com/RaghuVarma331/dotos-crystal/-/raw/master/dotOS-R-v5.1-Crystal-UNOFFICIAL-20210601-1720.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**dotOS-R-v5.1-Plate2-UNOFFICIAL-20210601-1938.zip**](https://gitlab.com/RaghuVarma331/dotos-plate2/-/raw/master/dotOS-R-v5.1-Plate2-UNOFFICIAL-20210601-1938.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-
-### Descendant OS Android 11 for Nokia Phones ( With GApps )
-
-| Device       |              Download Link                      |  Telegram Contact  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**descendant_Dragon-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-dragon/-/raw/master/descendant_Dragon-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**descendant_Onyx-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-onyx/-/raw/master/descendant_Onyx-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**descendant_Crystal-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-crystal/-/raw/master/descendant_Crystal-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**descendant_Plate2-11.5-20210515-Community.zip**](https://gitlab.com/RaghuVarma331/descendant-plate2/-/raw/master/descendant_Plate2-11.5-20210515-Community.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Android 11 TWRP For Nokia Phones
