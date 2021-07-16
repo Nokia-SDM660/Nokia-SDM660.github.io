@@ -2,11 +2,11 @@
 
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
-| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210629-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210629-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210629-UNOFFICIAL-Dragon.zip.svg)|
-| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210629-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210629-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210629-UNOFFICIAL-Onyx.zip.svg)|
-| Nokia 7.1 ( Latest build )| [**lineage-18.1-20210630-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210630-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-18.1-20210630-UNOFFICIAL-Crystal.zip.svg)|
-| Nokia 7.2 ( Latest build )| [**lineage-18.1-20210630-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210630-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210630-UNOFFICIAL-Daredevil.zip.svg)|
-| Nokia 6.2 ( Latest build )| [**lineage-18.1-20210630-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210630-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210630-UNOFFICIAL-Starlord.zip.svg)|
+| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210713-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210713-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210713-UNOFFICIAL-Dragon.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210714-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Onyx.zip.svg)|
+| Nokia 7.1 ( Latest build )| [**lineage-18.1-20210714-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Crystal.zip.svg)|
+| Nokia 7.2 ( Latest build )| [**lineage-18.1-20210714-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Daredevil.zip.svg)|
+| Nokia 6.2 ( Latest build )| [**lineage-18.1-20210714-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210714-UNOFFICIAL-Starlord.zip.svg)|
 
 
 ### Bootloader unlocking for Nokia phones
@@ -55,12 +55,12 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210628-1815-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210628-1815-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210628-2228-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx/-/raw/master/PixelExperience_Onyx-11.0-20210628-2228-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-11.0-20210629-0241-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal/-/raw/master/PixelExperience_Crystal-11.0-20210629-0241-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-11.0-20210629-0654-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2/-/raw/master/PixelExperience_Plate2-11.0-20210629-0654-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210629-1107-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210629-1107-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210629-1457-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210629-1457-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-11.0-20210714-1729-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Dragon-11.0-20210714-1729-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-11.0-20210714-2143-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience/-/raw/master/PixelExperience_Onyx-11.0-20210714-2143-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-11.0-20210715-0156-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal/-/raw/master/PixelExperience_Crystal-11.0-20210715-0156-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-11.0-20210715-0609-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2/-/raw/master/PixelExperience_Plate2-11.0-20210715-0609-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-11.0-20210715-1023-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil/-/raw/master/PixelExperience_Daredevil-11.0-20210715-1023-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-11.0-20210715-1414-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord/-/raw/master/PixelExperience_Starlord-11.0-20210715-1414-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Evolution X Android 11 for Nokia Phones ( With GApps )
