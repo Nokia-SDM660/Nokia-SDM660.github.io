@@ -32,6 +32,15 @@
 |  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 
 
+### Oxygen OS Android 11 for Nokia Phones
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**OxygenOS-11.0-OP8-HMD-SDM660_V-1-DRG.7z**](https://gitlab.com/RaghuVarma331/oxygenos-dragon/-/raw/main/OxygenOS-11.0-OP8-HMD-SDM660_V-1-DRG.7z) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**OxygenOS-11.0-OP8-HMD-SDM660_V-1-B2N.7z**](https://gitlab.com/RaghuVarma331/oxygenos-onyx/-/raw/main/OxygenOS-11.0-OP8-HMD-SDM660_V-1-B2N.7z) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**OxygenOS-11.0-OP8-HMD-SDM660_V-1-CTL.7z**](https://gitlab.com/RaghuVarma331/oxygenos-crystal/-/raw/main/OxygenOS-11.0-OP8-HMD-SDM660_V-1-CTL.7z) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**OxygenOS-11.0-OP8-HMD-SDM660_V-1-PL2.7z**](https://gitlab.com/RaghuVarma331/oxygenos-plate2/-/raw/main/OxygenOS-11.0-OP8-HMD-SDM660_V-1-PL2.7z) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
 ### Oxygen OS Android 10 for Nokia Phones
 
 | Device       |              Download Link                      |  Telegram Contact  |
