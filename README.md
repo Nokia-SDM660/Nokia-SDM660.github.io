@@ -1,3 +1,10 @@
+### Aosp Extended Android 12 for Nokia Phones ( With GApps )
+
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip**](https://sourceforge.net/projects/drg-sprout/files/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip.svg)|
+
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
