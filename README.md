@@ -4,6 +4,7 @@
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
 | Nokia 6.1 Plus ( Latest build )| [**AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip**](https://sourceforge.net/projects/drg-sprout/files/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip**](https://sourceforge.net/projects/b2n-sprout/files/AEX/AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/AEX/AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip.svg)|
 
 ### LineageOS 18.1 for Nokia phones ( Without GApps )
 
