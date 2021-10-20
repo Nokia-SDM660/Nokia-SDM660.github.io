@@ -42,6 +42,18 @@
 |  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 
 
+### Governor OS Android 12 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**GovernorOS_Dragon-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-dragon/-/raw/master/GovernorOS_Dragon-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**GovernorOS_Onyx-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-onyx/-/raw/master/GovernorOS_Onyx-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**GovernorOS_Crystal-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-crystal/-/raw/master/GovernorOS_Crystal-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**GovernorOS_Plate2-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-plate2/-/raw/master/GovernorOS_Plate2-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**GovernorOS_Daredevil-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-daredevil/-/raw/master/GovernorOS_Daredevil-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**GovernorOS_Starlord-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-starlord/-/raw/master/GovernorOS_Starlord-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
 ### Oxygen OS Android 11 for Nokia Phones
 
 | Device       |              Download Link                      |  Telegram Contact  |
