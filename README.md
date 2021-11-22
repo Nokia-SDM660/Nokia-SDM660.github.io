@@ -46,12 +46,12 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**GovernorOS_Dragon-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-dragon/-/raw/master/GovernorOS_Dragon-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**GovernorOS_Onyx-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-onyx/-/raw/master/GovernorOS_Onyx-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**GovernorOS_Crystal-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-crystal/-/raw/master/GovernorOS_Crystal-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**GovernorOS_Plate2-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-plate2/-/raw/master/GovernorOS_Plate2-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**GovernorOS_Daredevil-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-daredevil/-/raw/master/GovernorOS_Daredevil-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**GovernorOS_Starlord-12.0-20211020.zip**](https://gitlab.com/RaghuVarma331/governoros-starlord/-/raw/master/GovernorOS_Starlord-12.0-20211020.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**HMD-AOSP_Dragon-12.0-11212216.zip**](https://gitlab.com/RaghuVarma331/governoros-dragon/-/raw/master/HMD-AOSP_Dragon-12.0-11212216.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**HMD-AOSP_Onyx-12.0-11212325.zip**](https://gitlab.com/RaghuVarma331/governoros-onyx/-/raw/master/HMD-AOSP_Onyx-12.0-11212325.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**HMD-AOSP_Crystal-12.0-11220034.zip**](https://gitlab.com/RaghuVarma331/governoros-crystal/-/raw/master/HMD-AOSP_Crystal-12.0-11220034.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**HMD-AOSP_Plate2-12.0-11220142.zip**](https://gitlab.com/RaghuVarma331/governoros-plate2/-/raw/master/HMD-AOSP_Plate2-12.0-11220142.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**HMD-AOSP_Daredevil-12.0-11220250.zip**](https://gitlab.com/RaghuVarma331/governoros-daredevil/-/raw/master/HMD-AOSP_Daredevil-12.0-11220250.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**HMD-AOSP_Starlord-12.0-11220347.zip**](https://gitlab.com/RaghuVarma331/governoros-starlord/-/raw/master/HMD-AOSP_Starlord-12.0-11220347.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Oxygen OS Android 11 for Nokia Phones
