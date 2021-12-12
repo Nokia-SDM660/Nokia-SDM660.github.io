@@ -1,22 +1,8 @@
-### Aosp Extended Android 12 for Nokia Phones ( With GApps )
-
-
-| Device       |              Download Link                      |  Download Statistics  |
-|--------------|-------------------------------------------------|-----------------------|
-| Nokia 6.1 Plus ( Latest build )| [**AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip**](https://sourceforge.net/projects/drg-sprout/files/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip.svg)|
-| Nokia 7 Plus ( Latest build )| [**AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip**](https://sourceforge.net/projects/b2n-sprout/files/AEX/AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/AEX/AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip.svg)|
-| Nokia 7.1 ( Latest build )| [**AospExtended-v9.0-Crystal-UNOFFICIAL-20211011-2249.zip**](https://sourceforge.net/projects/ctl-sprout/files/AEX/AospExtended-v9.0-Crystal-UNOFFICIAL-20211011-2249.zip/download) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/AEX/AospExtended-v9.0-Crystal-UNOFFICIAL-20211011-2249.zip.svg)|
-| Nokia 6.1 ( Latest build )| [**AospExtended-v9.0-Plate2-UNOFFICIAL-20211012-0109.zip**](https://sourceforge.net/projects/pl2-sprout/files/AEX/AospExtended-v9.0-Plate2-UNOFFICIAL-20211012-0109.zip) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/AEX/AospExtended-v9.0-Plate2-UNOFFICIAL-20211012-0109.zip.svg)|
-
-### LineageOS 18.1 for Nokia phones ( Without GApps )
+### LineageOS 19.0 for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
-| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Dragon.zip.svg)|
-| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Onyx.zip.svg)|
-| Nokia 7.1 ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Crystal.zip.svg)|
-| Nokia 7.2 ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Daredevil.zip.svg)|
-| Nokia 6.2 ( Latest build )| [**lineage-18.1-20210817-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210817-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210817-UNOFFICIAL-Starlord.zip.svg)|
+| Nokia 6.1 Plus ( Latest build )| [**lineage-19.0-20211212-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Dragon.zip.svg)|
 
 
 ### Bootloader unlocking for Nokia phones
@@ -52,6 +38,27 @@
 | Nokia 6.1 ( Latest build )| [**HMD-AOSP_Plate2-12.0-11220142.zip**](https://gitlab.com/RaghuVarma331/governoros-plate2/-/raw/master/HMD-AOSP_Plate2-12.0-11220142.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**HMD-AOSP_Daredevil-12.0-11220250.zip**](https://gitlab.com/RaghuVarma331/governoros-daredevil/-/raw/master/HMD-AOSP_Daredevil-12.0-11220250.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**HMD-AOSP_Starlord-12.0-11220347.zip**](https://gitlab.com/RaghuVarma331/governoros-starlord/-/raw/master/HMD-AOSP_Starlord-12.0-11220347.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
+### Aosp Extended Android 12 for Nokia Phones ( With GApps )
+
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip**](https://sourceforge.net/projects/drg-sprout/files/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/AEX/AospExtended-v9.0-Dragon-UNOFFICIAL-20211011-1506.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip**](https://sourceforge.net/projects/b2n-sprout/files/AEX/AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/AEX/AospExtended-v9.0-Onyx-UNOFFICIAL-20211011-2036.zip.svg)|
+| Nokia 7.1 ( Latest build )| [**AospExtended-v9.0-Crystal-UNOFFICIAL-20211011-2249.zip**](https://sourceforge.net/projects/ctl-sprout/files/AEX/AospExtended-v9.0-Crystal-UNOFFICIAL-20211011-2249.zip/download) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/AEX/AospExtended-v9.0-Crystal-UNOFFICIAL-20211011-2249.zip.svg)|
+| Nokia 6.1 ( Latest build )| [**AospExtended-v9.0-Plate2-UNOFFICIAL-20211012-0109.zip**](https://sourceforge.net/projects/pl2-sprout/files/AEX/AospExtended-v9.0-Plate2-UNOFFICIAL-20211012-0109.zip) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/AEX/AospExtended-v9.0-Plate2-UNOFFICIAL-20211012-0109.zip.svg)|
+
+### LineageOS 18.1 for Nokia phones ( Without GApps )
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Dragon.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Onyx.zip.svg)|
+| Nokia 7.1 ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Crystal.zip.svg)|
+| Nokia 7.2 ( Latest build )| [**lineage-18.1-20210816-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-18.1-20210816-UNOFFICIAL-Daredevil.zip.svg)|
+| Nokia 6.2 ( Latest build )| [**lineage-18.1-20210817-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-18.1-20210817-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-18.1-20210817-UNOFFICIAL-Starlord.zip.svg)|
 
 
 ### Oxygen OS Android 11 for Nokia Phones
