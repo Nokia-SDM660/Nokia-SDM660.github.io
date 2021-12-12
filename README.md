@@ -4,7 +4,7 @@
 |--------------|-------------------------------------------------|-----------------------|
 | Nokia 6.1 Plus ( Latest build )| [**lineage-19.0-20211212-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Dragon.zip.svg)|
 | Nokia 7 Plus ( Latest build )| [**lineage-19.0-20211212-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Onyx.zip.svg)|
-
+| Nokia 7.1 ( Latest build )| [**lineage-19.0-20211212-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-19.0-20211212-UNOFFICIAL-Crystal.zip.svg)|
 
 ### Bootloader unlocking for Nokia phones
 
