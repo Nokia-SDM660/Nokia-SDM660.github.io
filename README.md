@@ -41,7 +41,7 @@
 | Nokia 7.1 ( Latest build )| [**HMD-AOSP_Crystal-12.0-20211215-0832.zip**](https://gitlab.com/RaghuVarma331/governoros-crystal/-/raw/master/HMD-AOSP_Crystal-12.0-20211215-0832.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 6.1 ( Latest build )| [**HMD-AOSP_Plate2-12.0-20211215-0832.zip**](https://gitlab.com/RaghuVarma331/governoros-plate2/-/raw/master/HMD-AOSP_Plate2-12.0-20211215-0832.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 | Nokia 7.2 ( Latest build )| [**HMD-AOSP_Daredevil-12.0-20211215-0832.zip**](https://gitlab.com/RaghuVarma331/governoros-daredevil/-/raw/master/HMD-AOSP_Daredevil-12.0-20211215-0832.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**HMD-AOSP_Starlord-12.0-11220347.zip**](https://gitlab.com/RaghuVarma331/governoros-starlord/-/raw/master/HMD-AOSP_Starlord-12.0-11220347.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**HMD-AOSP_Starlord-12.0-20211215-0832.zip**](https://gitlab.com/RaghuVarma331/governoros-starlord/-/raw/master/HMD-AOSP_Starlord-12.0-20211215-0832.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Aosp Extended Android 12 for Nokia Phones ( With GApps )
