@@ -32,6 +32,18 @@
 |  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 
 
+### Pixel Experience Android 12 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Telegram Contact  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-12.0-20220127-2242-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-dragon-a12/-/raw/master/PixelExperience_Dragon-12.0-20220127-2242-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-12.0-20220128-0243-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx-a12/-/raw/master/PixelExperience_Onyx-12.0-20220128-0243-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-12.0-20220128-0631-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal-a12/-/raw/master/PixelExperience_Crystal-12.0-20220128-0631-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-12.0-20220128-1014-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2-a12/-/raw/master/PixelExperience_Plate2-12.0-20220128-1014-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-12.0-20220128-1731-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a12/-/raw/master/PixelExperience_Daredevil-12.0-20220128-1731-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-12.0-20220128-1945-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord-a12/-/raw/master/PixelExperience_Starlord-12.0-20220128-1945-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+
+
 ### Governor OS Android 12 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
