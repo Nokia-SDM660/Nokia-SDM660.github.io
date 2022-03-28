@@ -45,7 +45,7 @@
 | Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-12.0-20220128-1945-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord-a12/-/raw/master/PixelExperience_Starlord-12.0-20220128-1945-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
-### Governor OS Android 12 for Nokia Phones ( With GApps )
+### Governor OS Android 12L for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
