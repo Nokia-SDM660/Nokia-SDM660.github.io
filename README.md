@@ -33,7 +33,7 @@
 |  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
 
 
-### Pixel Experience Android 12 for Nokia Phones ( With GApps )
+### Pixel Experience Android 12L for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
