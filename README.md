@@ -37,12 +37,12 @@
 
 | Device       |              Download Link                      |  Telegram Contact  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-12.1-20220413-0757-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-dragon-a12/-/raw/master/PixelExperience_Dragon-12.1-20220413-0757-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-12.1-20220413-1146-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx-a12/-/raw/master/PixelExperience_Onyx-12.1-20220413-1146-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-12.1-20220413-1517-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal-a12/-/raw/master/PixelExperience_Crystal-12.1-20220413-1517-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-12.1-20220413-1852-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2-a12/-/raw/master/PixelExperience_Plate2-12.1-20220413-1852-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-12.1-20220414-0849-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a12/-/raw/master/PixelExperience_Daredevil-12.1-20220414-0849-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
-| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-12.1-20220414-1213-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord-a12/-/raw/master/PixelExperience_Starlord-12.1-20220414-1213-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Dragon-12.1-20220523-1812-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-dragon-a12/-/raw/master/PixelExperience_Dragon-12.1-20220523-1812-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Onyx-12.1-20220523-2208-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx-a12/-/raw/master/PixelExperience_Onyx-12.1-20220523-2208-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**PixelExperience_Crystal-12.1-20220524-0149-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal-a12/-/raw/master/PixelExperience_Crystal-12.1-20220524-0149-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**PixelExperience_Plate2-12.1-20220524-0533-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2-a12/-/raw/master/PixelExperience_Plate2-12.1-20220524-0533-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-12.1-20220524-0914-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a12/-/raw/master/PixelExperience_Daredevil-12.1-20220524-0914-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
+| Nokia 6.2 ( Latest build )| [**PixelExperience_Starlord-12.1-20220524-1230-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-starlord-a12/-/raw/master/PixelExperience_Starlord-12.1-20220524-1230-UNOFFICIAL.zip) | [**Raghu Varma**](https://t.me/RaghuVarma) |
 
 
 ### Governor OS Android 12L for Nokia Phones ( With GApps )
