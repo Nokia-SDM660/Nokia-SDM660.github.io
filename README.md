@@ -12,25 +12,25 @@
 
 ### Bootloader unlock service for Nokia phones ( Unofficial method & Not affiliated to Nokia or XDA )
 
-| Supported Devices |             Cost                   |             Place your order               |
-|-------------------|------------------------------------|--------------------------------------------|
-|  Nokia 7.2        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 7 Plus     | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 6.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 8.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 9 PureView | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 5.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 3.1 Plus   | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 8 Sirocco  | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 6.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 7.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 5.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 3.1        | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
-|  Nokia 8          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 7          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 6          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 5          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) |
-|  Nokia 2          | 450₹(INR) 8$(USD) 9$(AUD) 9€(Euro) | [**Request now**](https://t.me/RaghuVarma) | 
+| Supported Devices |        Cost         |             Place your order               |
+|-------------------|---------------------|--------------------------------------------|
+|  Nokia 7.2        |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) |
+|  Nokia 8.1        |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 6.1 Plus   |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 7 Plus     |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 7.1        |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 6.1        |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 8 Sirocco  |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 8          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 7          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 9 PureView |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 5.1 Plus   |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 3.1 Plus   |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 5.1        |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 3.1        |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 6          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 5          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
+|  Nokia 2          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
 
 
 ### Pixel Experience Android 12L for Nokia Phones ( With GApps )
