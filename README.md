@@ -10,7 +10,7 @@
 | Nokia 6.2 ( Latest build )| [**lineage-19.0-20220303-UNOFFICIAL-Starlord.zip**](https://sourceforge.net/projects/sld-sprout/files/LineageOS/lineage-19.0-20220303-UNOFFICIAL-Starlord.zip) |![data](https://img.shields.io/sourceforge/dt/sld-sprout/LineageOS/lineage-19.0-20220303-UNOFFICIAL-Starlord.zip.svg)|
 
 
-### Bootloader unlocking for Nokia phones
+### Bootloader unlock service for Nokia phones ( Unofficial method & Not affiliated to Nokia or XDA )
 
 | Supported Devices |             Cost                   |             Place your order               |
 |-------------------|------------------------------------|--------------------------------------------|
