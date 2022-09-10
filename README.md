@@ -32,6 +32,15 @@
 |  Nokia 5          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 2          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
 
+### ArrowOS Android 13.0 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Place your request   |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**Arrow-v13.0-Dragon-UNOFFICIAL-20220909-GAPPS.zip**](https://gitlab.com/RaghuVarma331/arrowos-dragon/-/raw/master/Arrow-v13.0-Dragon-UNOFFICIAL-20220909-GAPPS.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**Arrow-v13.0-Onyx-UNOFFICIAL-20220909-GAPPS.zip**](https://gitlab.com/RaghuVarma331/arrowos-onyx/-/raw/master/Arrow-v13.0-Onyx-UNOFFICIAL-20220909-GAPPS.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**Arrow-v13.0-Crystal-UNOFFICIAL-20220909-GAPPS.zip**](https://gitlab.com/RaghuVarma331/arrowos-crystal/-/raw/master/Arrow-v13.0-Crystal-UNOFFICIAL-20220909-GAPPS.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**Arrow-v13.0-Plate2-UNOFFICIAL-20220909-GAPPS.zip**](https://gitlab.com/RaghuVarma331/arrowos-plate2/-/raw/master/Arrow-v13.0-Plate2-UNOFFICIAL-20220909-GAPPS.zip) | [**Request access**](https://t.me/RaghuVarma) |
+
 ### Governor OS Android 13.0 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Place your request   |
