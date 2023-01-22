@@ -1,3 +1,14 @@
+### LineageOS 20.0 for Nokia phones ( Without GApps )
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**lineage-20.0-20230121-UNOFFICIAL-Dragon.zip**](https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-20.0-20230121-UNOFFICIAL-Dragon.zip) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/LineageOS/lineage-20.0-20230121-UNOFFICIAL-Dragon.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**lineage-20.0-20230121-UNOFFICIAL-Onyx.zip**](https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-20.0-20230121-UNOFFICIAL-Onyx.zip) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/LineageOS/lineage-20.0-20230121-UNOFFICIAL-Onyx.zip.svg)|
+| Nokia 7.1 ( Latest build )| [**lineage-20.0-20230122-UNOFFICIAL-Crystal.zip**](https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-20.0-20230122-UNOFFICIAL-Crystal.zip) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/LineageOS/lineage-20.0-20230122-UNOFFICIAL-Crystal.zip.svg)|
+| Nokia 6.1 ( Latest build )| [**lineage-20.0-20230122-UNOFFICIAL-Plate2.zip**](https://sourceforge.net/projects/pl2-sprout/files/LineageOS/lineage-20.0-20230122-UNOFFICIAL-Plate2.zip) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/LineageOS/lineage-20.0-20230122-UNOFFICIAL-Plate2.zip.svg)|
+| Nokia 7.2 ( Latest build )| [**lineage-20.0-20230122-UNOFFICIAL-Daredevil.zip**](https://sourceforge.net/projects/ddv-sprout/files/LineageOS/lineage-20.0-20230122-UNOFFICIAL-Daredevil.zip) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/LineageOS/lineage-20.0-20230122-UNOFFICIAL-Daredevil.zip.svg)|
+
+
 ### Bootloader unlock service for Nokia phones ( Not affiliated to Nokia or XDA )
 
 | Supported Devices |        Cost         |             Place your order               |
