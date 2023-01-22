@@ -135,6 +135,17 @@
 | Nokia 6.1 ( Latest build )| [**twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img.svg)|
 | Nokia 7.2 ( Latest build )| [**twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img**](https://sourceforge.net/projects/ddv-sprout/files/TWRP/twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/TWRP/twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img.svg)|
 
+### TWRP For Nokia Phones ( permanent installation )
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**twrp-installer-3.7.0_12-0-DRG_sprout-20230122-1823.zip**](https://sourceforge.net/projects/drg-sprout/files/TWRP/twrp-installer-3.7.0_12-0-DRG_sprout-20230122-1823.zip/download) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/TWRP/twrp-installer-3.7.0_12-0-DRG_sprout-20230122-1823.zip.svg)|
+| Nokia 7 Plus ( Latest build )| [**twrp-installer-3.7.0_12-0-B2N_sprout-20230122-1823.zip**](https://sourceforge.net/projects/b2n-sprout/files/TWRP/twrp-installer-3.7.0_12-0-B2N_sprout-20230122-1823.zip/download) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP/twrp-installer-3.7.0_12-0-B2N_sprout-20230122-1823.zip.svg)|
+| Nokia 7.1 ( Latest build )| [**twrp-installer-3.7.0_12-0-CTL_sprout-20230122-1823.zip**](https://sourceforge.net/projects/ctl-sprout/files/TWRP/twrp-installer-3.7.0_12-0-CTL_sprout-20230122-1823.zip/download) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/TWRP/twrp-installer-3.7.0_12-0-CTL_sprout-20230122-1823.zip.svg)|
+| Nokia 6.1 ( Latest build )| [**twrp-installer-3.7.0_12-0-PL2_sprout-20230122-1823.zip**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/twrp-installer-3.7.0_12-0-PL2_sprout-20230122-1823.zip/download) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/twrp-installer-3.7.0_12-0-PL2_sprout-20230122-1823.zip.svg)|
+| Nokia 7.2 ( Latest build )| [**twrp-installer-3.7.0_12-0-DDV_sprout-20230122-1823.zip**](https://sourceforge.net/projects/ddv-sprout/files/TWRP/twrp-installer-3.7.0_12-0-DDV_sprout-20230122-1823.zip/download) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/TWRP/twrp-installer-3.7.0_12-0-DDV_sprout-20230122-1823.zip.svg)|
+
+
 ### LineageOS 19.0 for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
