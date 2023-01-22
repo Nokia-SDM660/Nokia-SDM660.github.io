@@ -125,6 +125,14 @@
 | Nokia 7.2 ( Latest build )| [**dotOS-R-v5.1.2-Daredevil-UNOFFICIAL-20210808-0406.zip**](https://gitlab.com/RaghuVarma331/dotos-daredevil/-/raw/master/dotOS-R-v5.1.2-Daredevil-UNOFFICIAL-20210808-0406.zip) | [**Request access**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**dotOS-R-v5.1.2-Starlord-UNOFFICIAL-20210808-0816.zip**](https://gitlab.com/RaghuVarma331/dotos-starlord/-/raw/master/dotOS-R-v5.1.2-Starlord-UNOFFICIAL-20210808-0816.zip) | [**Request access**](https://t.me/RaghuVarma) |
 
+### Google Apps for custom roms
+
+| Owner       |              Download link                      |  Android version  |
+|--------------|-------------------------------------------------|-----------------------|
+| MindTheGApps | [**gapps-arm64-11.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11.0 |
+| MindTheGApps | [**gapps-arm64-12L.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12 L |
+| MindTheGApps | [**gapps-arm64-13.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-13.0.0-arm64-20221025_100653.zip) | 13.0 |
+
 ### TWRP For Nokia Phones ( Temporary boot )
 
 | Device       |              Download Link                      |  Download Statistics  |
@@ -135,7 +143,7 @@
 | Nokia 6.1 ( Latest build )| [**twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img.svg)|
 | Nokia 7.2 ( Latest build )| [**twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img**](https://sourceforge.net/projects/ddv-sprout/files/TWRP/twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/TWRP/twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img.svg)|
 
-### TWRP For Nokia Phones ( permanent installation )
+### TWRP For Nokia Phones ( Permanent installation )
 
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
