@@ -125,6 +125,16 @@
 | Nokia 7.2 ( Latest build )| [**dotOS-R-v5.1.2-Daredevil-UNOFFICIAL-20210808-0406.zip**](https://gitlab.com/RaghuVarma331/dotos-daredevil/-/raw/master/dotOS-R-v5.1.2-Daredevil-UNOFFICIAL-20210808-0406.zip) | [**Request access**](https://t.me/RaghuVarma) |
 | Nokia 6.2 ( Latest build )| [**dotOS-R-v5.1.2-Starlord-UNOFFICIAL-20210808-0816.zip**](https://gitlab.com/RaghuVarma331/dotos-starlord/-/raw/master/dotOS-R-v5.1.2-Starlord-UNOFFICIAL-20210808-0816.zip) | [**Request access**](https://t.me/RaghuVarma) |
 
+### TWRP For Nokia Phones ( Temporary boot )
+
+| Device       |              Download Link                      |  Download Statistics  |
+|--------------|-------------------------------------------------|-----------------------|
+| Nokia 6.1 Plus ( Latest build )| [**twrp-3.7.0_12-0-DRG_sprout-20230122-1823.img**](https://sourceforge.net/projects/drg-sprout/files/TWRP/twrp-3.7.0_12-0-DRG_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/drg-sprout/TWRP/twrp-3.7.0_12-0-DRG_sprout-20230122-1823.img.svg)|
+| Nokia 7 Plus ( Latest build )| [**twrp-3.7.0_12-0-B2N_sprout-20230122-1823.img**](https://sourceforge.net/projects/b2n-sprout/files/TWRP/twrp-3.7.0_12-0-B2N_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/b2n-sprout/TWRP/twrp-3.7.0_12-0-B2N_sprout-20230122-1823.img.svg)|
+| Nokia 7.1 ( Latest build )| [**twrp-3.7.0_12-0-CTL_sprout-20230122-1823.img**](https://sourceforge.net/projects/ctl-sprout/files/TWRP/twrp-3.7.0_12-0-CTL_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/ctl-sprout/TWRP/twrp-3.7.0_12-0-CTL_sprout-20230122-1823.img.svg)|
+| Nokia 6.1 ( Latest build )| [**twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img**](https://sourceforge.net/projects/pl2-sprout/files/TWRP/twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/pl2-sprout/TWRP/twrp-3.7.0_12-0-PL2_sprout-20230122-1823.img.svg)|
+| Nokia 7.2 ( Latest build )| [**twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img**](https://sourceforge.net/projects/ddv-sprout/files/TWRP/twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img/download) |![data](https://img.shields.io/sourceforge/dt/ddv-sprout/TWRP/twrp-3.7.0_12-0-DDV_sprout-20230122-1823.img.svg)|
+
 ### LineageOS 19.0 for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
