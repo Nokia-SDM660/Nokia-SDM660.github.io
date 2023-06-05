@@ -35,12 +35,12 @@
 
 | Device       |              Download Link                      |  Place your request  |
 |--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Plus_Dragon-13.0-20230411-2037-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-dragon-a13/-/raw/master/PixelExperience_Plus_Dragon-13.0-20230411-2037-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**PixelExperience_Plus_Onyx-13.0-20230411-2107-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx-a13/-/raw/master/PixelExperience_Plus_Onyx-13.0-20230411-2107-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**PixelExperience_Plus_Crystal-13.0-20230411-2135-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal-a13/-/raw/master/PixelExperience_Plus_Crystal-13.0-20230411-2135-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**PixelExperience_Plus_Plate2-13.0-20230411-2204-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2-a13/-/raw/master/PixelExperience_Plus_Plate2-13.0-20230411-2204-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7.2 ( Latest build )| [**PixelExperience_Plus_Daredevil-13.0-20230411-1921-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a13/-/raw/master/PixelExperience_Plus_Daredevil-13.0-20230411-1921-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 8 Sirocco ( Latest build )| [**PixelExperience_Plus_Avenger-13.0-20230411-2233-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-avenger-a13/-/raw/master/PixelExperience_Plus_Avenger-13.0-20230411-2233-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 Plus ( Latest build )| [**PixelExperience_Plus_Dragon-13.0-20230604-1825-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-dragon-a13/-/raw/master/PixelExperience_Plus_Dragon-13.0-20230604-1825-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**PixelExperience_Plus_Onyx-13.0-20230604-1901-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-onyx-a13/-/raw/master/PixelExperience_Plus_Onyx-13.0-20230604-1901-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**PixelExperience_Plus_Crystal-13.0-20230604-1935-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-crystal-a13/-/raw/master/PixelExperience_Plus_Crystal-13.0-20230604-1935-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**PixelExperience_Plus_Plate2-13.0-20230604-2005-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-plate2-a13/-/raw/master/PixelExperience_Plus_Plate2-13.0-20230604-2005-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**PixelExperience_Plus_Daredevil-13.0-20230604-1730-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a13/-/raw/master/PixelExperience_Plus_Daredevil-13.0-20230604-1730-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 8 Sirocco ( Latest build )| [**PixelExperience_Plus_Avenger-13.0-20230604-2034-UNOFFICIAL.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-avenger-a13/-/raw/master/PixelExperience_Plus_Avenger-13.0-20230604-2034-UNOFFICIAL.zip) | [**Request access**](https://t.me/RaghuVarma) |
 
 ### ArrowOS Android 13.0 for Nokia Phones ( With GApps )
 
