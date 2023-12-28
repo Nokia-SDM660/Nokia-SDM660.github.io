@@ -42,6 +42,17 @@
 | Nokia 7.2 ( Latest build )| [**PixelExperience_Daredevil-14.0-20231117-0707-ALPHA.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a14/-/raw/master/PixelExperience_Daredevil-14.0-20231117-0707-ALPHA.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
 | Nokia 8 Sirocco ( Latest build )| [**PixelExperience_Avenger-14.0-20231117-1112-ALPHA.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-avenger-a14/-/raw/master/PixelExperience_Avenger-14.0-20231117-1112-ALPHA.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
 
+### crDroid Android 14.0 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Place your request  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**crDroidAndroid-14.0-20231225-Dragon-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-dragon/-/raw/master/crDroidAndroid-14.0-20231225-Dragon-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**crDroidAndroid-14.0-20231225-Onyx-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-onyx/-/raw/master/crDroidAndroid-14.0-20231225-Onyx-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**crDroidAndroid-14.0-20231225-Crystal-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-crystal/-/raw/master/crDroidAndroid-14.0-20231225-Crystal-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**crDroidAndroid-14.0-20231225-Plate2-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-plate2/-/raw/master/crDroidAndroid-14.0-20231225-Plate2-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**crDroidAndroid-14.0-20231225-Daredevil-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-daredevil/-/raw/master/crDroidAndroid-14.0-20231225-Daredevil-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 8 Sirocco ( Latest build )| [**crDroidAndroid-14.0-20231225-Avenger-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-avenger/-/raw/master/crDroidAndroid-14.0-20231225-Avenger-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+
 
 ### PixelExperience_Plus Android 13.0 for Nokia Phones ( With GApps )
 
