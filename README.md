@@ -41,6 +41,17 @@
 |  Nokia 5          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
 |  Nokia 2          |  450₹(INR)/8$(USD)  | [**Request now**](https://t.me/RaghuVarma) | 
 
+### crDroid Android 14.0 ( QPR3 ) for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Place your request  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**crDroidAndroid-14.0-20240826-Dragon-v10.7.zip**](https://gitlab.com/RaghuVarma331/crdroid-dragon/-/raw/master/crDroidAndroid-14.0-20240826-Dragon-v10.7.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**crDroidAndroid-14.0-20240826-Onyx-v10.7.zip**](https://gitlab.com/RaghuVarma331/crdroid-onyx/-/raw/master/crDroidAndroid-14.0-20240826-Onyx-v10.7.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**crDroidAndroid-14.0-20240826-Crystal-v10.7.zip**](https://gitlab.com/RaghuVarma331/crdroid-crystal/-/raw/master/crDroidAndroid-14.0-20240826-Crystal-v10.7.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**crDroidAndroid-14.0-20240826-Plate2-v10.7.zip**](https://gitlab.com/RaghuVarma331/crdroid-plate2/-/raw/master/crDroidAndroid-14.0-20240826-Plate2-v10.7.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.2 DDVA ( INDIA Latest build )| [**crDroidAndroid-14.0-20240826-Daredevil-v10.7-TA-1193.zip**](https://gitlab.com/RaghuVarma331/crdroid-daredevil/-/raw/master/crDroidAndroid-14.0-20240826-Daredevil-v10.7-TA-1193.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.2 DDV ( GLOBAL Latest build )| [**crDroidAndroid-14.0-20240830-Daredevil-v10.7-TA-1196.zip**](https://gitlab.com/RaghuVarma331/crdroid-daredevil-global/-/raw/master/crDroidAndroid-14.0-20240830-Daredevil-v10.7-TA-1196.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+
 ### PixelExperience Android 14.0 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Place your request  |
@@ -52,18 +63,6 @@
 | Nokia 7.2 DDVA ( INDIA Latest build )| [**PixelExperience_Daredevil-14.0-20240321-1745-BETA-TA-1193.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a14/-/raw/master/PixelExperience_Daredevil-14.0-20240321-1745-BETA-TA-1193.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
 | Nokia 7.2 DDV ( GLOBAL Latest build )| [**PixelExperience_Daredevil-14.0-20240322-1629-BETA-TA-1196.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-daredevil-a14-global/-/raw/master/PixelExperience_Daredevil-14.0-20240322-1629-BETA-TA-1196.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
 | Nokia 8 Sirocco ( Latest build )| [**PixelExperience_Avenger-14.0-20240322-0657-BETA.zip**](https://gitlab.com/RaghuVarma331/pixelexperience-avenger-a14/-/raw/master/PixelExperience_Avenger-14.0-20240322-0657-BETA.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-
-### crDroid Android 14.0 for Nokia Phones ( With GApps )
-
-| Device       |              Download Link                      |  Place your request  |
-|--------------|-------------------------------------------------|--------------------|
-| Nokia 6.1 Plus ( Latest build )| [**crDroidAndroid-14.0-20231225-Dragon-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-dragon/-/raw/master/crDroidAndroid-14.0-20231225-Dragon-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7 Plus ( Latest build )| [**crDroidAndroid-14.0-20231225-Onyx-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-onyx/-/raw/master/crDroidAndroid-14.0-20231225-Onyx-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7.1 ( Latest build )| [**crDroidAndroid-14.0-20231225-Crystal-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-crystal/-/raw/master/crDroidAndroid-14.0-20231225-Crystal-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 6.1 ( Latest build )| [**crDroidAndroid-14.0-20231225-Plate2-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-plate2/-/raw/master/crDroidAndroid-14.0-20231225-Plate2-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7.2 DDVA ( INDIA Latest build )| [**crDroidAndroid-14.0-20231225-Daredevil-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-daredevil/-/raw/master/crDroidAndroid-14.0-20231225-Daredevil-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 7.2 DDV ( GLOBAL Latest build )| [**crDroidAndroid-14.0-20240108-Daredevil-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-daredevil-global/-/raw/master/crDroidAndroid-14.0-20240108-Daredevil-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
-| Nokia 8 Sirocco ( Latest build )| [**crDroidAndroid-14.0-20231225-Avenger-v10.0.zip**](https://gitlab.com/RaghuVarma331/crdroid-avenger/-/raw/master/crDroidAndroid-14.0-20231225-Avenger-v10.0.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
 
 
 ### PixelExperience_Plus Android 13.0 for Nokia Phones ( With GApps )
