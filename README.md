@@ -1,3 +1,15 @@
+### DerpFest Android 15.0 for Nokia Phones ( With GApps )
+
+| Device       |              Download Link                      |  Place your request  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**DerpFest-15-Community-Alpha-Dragon-20241006.zip**](https://gitlab.com/RaghuVarma331/derpfest-dragon/-/raw/master/DerpFest-15-Community-Alpha-Dragon-20241006.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**DerpFest-15-Community-Alpha-Onyx-20241006.zip**](https://gitlab.com/RaghuVarma331/derpfest-onyx/-/raw/master/DerpFest-15-Community-Alpha-Onyx-20241006.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**DerpFest-15-Community-Alpha-Crystal-20241007.zip**](https://gitlab.com/RaghuVarma331/derpfest-crystal/-/raw/master/DerpFest-15-Community-Alpha-Crystal-20241007.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**DerpFest-15-Community-Alpha-Plate2-20241007.zip**](https://gitlab.com/RaghuVarma331/derpfest-plate2/-/raw/master/DerpFest-15-Community-Alpha-Plate2-20241007.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build ) | [**DerpFest-15-Community-Alpha-Daredevil-20241007.zip**](https://gitlab.com/RaghuVarma331/derpfest-daredevil-in/-/raw/master/DerpFest-15-Community-Alpha-Daredevil-20241007.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 8 Sirocco ( Latest build )| [**DerpFest-15-Community-Alpha-Avenger-20241007.zip**](https://gitlab.com/RaghuVarma331/derpfest-avenger/-/raw/master/DerpFest-15-Community-Alpha-Avenger-20241007.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 8.1 ( Latest build )| [**DerpFest-15-Community-Alpha-Phoenix-20241007.zip**](https://gitlab.com/RaghuVarma331/derpfest-phoenix/-/raw/master/DerpFest-15-Community-Alpha-Phoenix-20241007.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+
 ### LineageOS 21.0 ( QPR3 ) for Nokia phones ( Without GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |
