@@ -1,3 +1,14 @@
+### crDroid Android 15.0 for Nokia Phones ( Without GApps )
+
+| Device       |              Download Link                      |  Place your request  |
+|--------------|-------------------------------------------------|--------------------|
+| Nokia 6.1 Plus ( Latest build )| [**crDroidAndroid-15.0-20250202-Dragon-v11.1.zip**](https://gitlab.com/RaghuVarma331/crdroid-dragon-a15/-/raw/master/crDroidAndroid-15.0-20250202-Dragon-v11.1.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7 Plus ( Latest build )| [**crDroidAndroid-15.0-20250202-Onyx-v11.1.zip**](https://gitlab.com/RaghuVarma331/crdroid-onyx-a15/-/raw/master/crDroidAndroid-15.0-20250202-Onyx-v11.1.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.1 ( Latest build )| [**crDroidAndroid-15.0-20250202-Crystal-v11.1.zip**](https://gitlab.com/RaghuVarma331/crdroid-crystal-a15/-/raw/master/crDroidAndroid-15.0-20250202-Crystal-v11.1.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 6.1 ( Latest build )| [**crDroidAndroid-15.0-20250202-Plate2-v11.1.zip**](https://gitlab.com/RaghuVarma331/crdroid-plate2-a15/-/raw/master/crDroidAndroid-15.0-20250202-Plate2-v11.1.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 7.2 ( Latest build )| [**crDroidAndroid-15.0-20250202-Daredevil-v11.1.zip**](https://gitlab.com/RaghuVarma331/crdroid-daredevil-a15/-/raw/master/crDroidAndroid-15.0-20250202-Daredevil-v11.1.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+| Nokia 8 Sirocco ( Latest build )| [**crDroidAndroid-15.0-20250202-Avenger-v11.1.zip**](https://gitlab.com/RaghuVarma331/crdroid-avenger-a15/-/raw/master/crDroidAndroid-15.0-20250202-Avenger-v11.1.zip?ref_type=heads) | [**Request access**](https://t.me/RaghuVarma) |
+
 ### DerpFest Android 15.0 for Nokia Phones ( With GApps )
 
 | Device       |              Download Link                      |  Place your request  |
